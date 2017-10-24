@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": "TRUE",
+        "exampleIdentifiers": "",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Company can be searched by its name or registration number. Free-of-charge information contains company name, address, legal form, and description of activities in Italian. Any further info can be purchased.",
+        "publicDatabase": ""
+    },
+    "code": "IT-PIVA",
+    "confirmed": true,
+    "coverage": [
+        "IT"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "The Italian Business Register can be defined as the register of company details: it in fact contains information (incorporation, amendments, cessation of trading) for all companies with any legal status and within any sector of economic activity, with headquarters or local branches within the country, as well as any other subjects as required by law. The Business Register contains all the main information relating to companies (name, statute, management, headquarters, etc.) and all the subsequent events that have occurred to them after registration (for example changes to the statute and to company officers, changes in registered address, liquidation, insolvency proceedings, etc.)"
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "secondary",
+    "meta": {
+        "lastUpdated": "",
+        "source": ""
+    },
+    "name": {
+        "en": "VAT Number",
+        "local": "Partita IVA"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://www.registroimprese.it/en/web/guest/home"
+}
