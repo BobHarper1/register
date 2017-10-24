@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": "TRUE",
+        "exampleIdentifiers": "123456789B01",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "",
+        "publicDatabase": ""
+    },
+    "code": "NL-BTW",
+    "confirmed": true,
+    "coverage": [
+        "NL"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": ""
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "secondary",
+    "meta": {
+        "lastUpdated": "",
+        "source": ""
+    },
+    "name": {
+        "en": "VAT number",
+        "local": "BTW nummer"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "https://www.kvk.nl/zoeken/handelsregister/"
+}
