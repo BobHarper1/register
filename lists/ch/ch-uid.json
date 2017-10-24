@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": "TRUE",
+        "exampleIdentifiers": "CHE-235.296.902",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Upon registration and payment of 45 lei, company details can be obtained.",
+        "publicDatabase": ""
+    },
+    "code": "CH-UID",
+    "confirmed": true,
+    "coverage": [
+        "CH"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "[DE] The Federal Office of Justice maintains Zefix for the purpose of accessing the companies decentrally recorded in the cantonal databases. Access to general company information is free of charge. The entries and changes in the Commercial Registry are published in the Swiss Official Gazette of Commerce and on the Internet (http://zefix.admin.ch/shab)."
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "",
+        "source": ""
+    },
+    "name": {
+        "en": "UID Register",
+        "local": "UID-Register"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "https://www.uid.admin.ch/search.aspx?lang=en"
+}
