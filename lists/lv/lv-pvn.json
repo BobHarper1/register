@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": "TRUE",
+        "exampleIdentifiers": "",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "",
+        "publicDatabase": ""
+    },
+    "code": "LV-PVN",
+    "confirmed": true,
+    "coverage": [
+        "LV"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": ""
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "secondary",
+    "meta": {
+        "lastUpdated": "",
+        "source": ""
+    },
+    "name": {
+        "en": "VAT number",
+        "local": "Pievienot\u0101s v\u0113rt\u012bbas nodok\u013ca (PVN) re\u0123istr\u0101cijas numurs"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://dati.ur.gov.lv/register/"
+}
